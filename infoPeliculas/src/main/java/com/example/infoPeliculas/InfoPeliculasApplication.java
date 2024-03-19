@@ -1,0 +1,13 @@
+package com.example.infoPeliculas;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class InfoPeliculasApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(InfoPeliculasApplication.class, args);
+	}
+ 
+}
